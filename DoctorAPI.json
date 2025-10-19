@@ -1,0 +1,459 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Eric Chandra",
+      "gender": "Male",
+      "schedule": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "info": "Tinggi: 133 cm",
+      "speciality": "Jantung",
+      "experience": 8,
+      "rating": 4.7,
+      "phone": "+62 812-3456-7890",
+      "email": "eric.chandra@healthcare.id",
+      "hospital": "RS Siloam Jakarta",
+      "availability": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "address": {
+        "street": "Jl. Sudirman No. 15",
+        "city": "Jakarta",
+        "province": "DKI Jakarta",
+        "postal_code": "10220"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Diana",
+      "gender": "Female",
+      "schedule": {
+        "start": "10:00",
+        "end": "13:00"
+      },
+      "info": "Tinggi: 140 cm",
+      "speciality": "Paru-Paru",
+      "experience": 10,
+      "rating": 4.9,
+      "phone": "+62 813-5567-1234",
+      "email": "diana.pratama@healthcare.id",
+      "hospital": "RS Persahabatan Jakarta",
+      "availability": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "address": {
+        "street": "Jl. Pemuda No. 25",
+        "city": "Jakarta",
+        "province": "DKI Jakarta",
+        "postal_code": "13220"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Budi",
+      "gender": "Male",
+      "schedule": {
+        "start": "08:00",
+        "end": "11:00"
+      },
+      "info": "Tinggi: 138 cm",
+      "speciality": "Ginjal",
+      "experience": 12,
+      "rating": 4.6,
+      "phone": "+62 811-7788-1122",
+      "email": "budi.setiawan@healthcare.id",
+      "hospital": "RS Cipto Mangunkusumo",
+      "availability": [
+        "Monday",
+        "Thursday",
+        "Saturday"
+      ],
+      "address": {
+        "street": "Jl. Salemba Raya No. 7",
+        "city": "Jakarta",
+        "province": "DKI Jakarta",
+        "postal_code": "10430"
+      },
+      "languages": [
+        "Bahasa Indonesia"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Siti",
+      "gender": "Female",
+      "schedule": {
+        "start": "14:00",
+        "end": "17:00"
+      },
+      "info": "Tinggi: 145 cm",
+      "speciality": "Diabetes",
+      "experience": 9,
+      "rating": 4.8,
+      "phone": "+62 821-9900-3344",
+      "email": "siti.rahma@healthcare.id",
+      "hospital": "RSUP Fatmawati",
+      "availability": [
+        "Tuesday",
+        "Friday"
+      ],
+      "address": {
+        "street": "Jl. TB Simatupang No. 15",
+        "city": "Jakarta Selatan",
+        "province": "DKI Jakarta",
+        "postal_code": "12430"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English",
+        "Arabic"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Andi",
+      "gender": "Male",
+      "schedule": {
+        "start": "12:00",
+        "end": "15:00"
+      },
+      "info": "Tinggi: 142 cm",
+      "speciality": "Gigi",
+      "experience": 7,
+      "rating": 4.4,
+      "phone": "+62 823-2233-4455",
+      "email": "andi.putra@healthcare.id",
+      "hospital": "Klinik Sehat Gigi Depok",
+      "availability": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "address": {
+        "street": "Jl. Margonda Raya No. 10",
+        "city": "Depok",
+        "province": "Jawa Barat",
+        "postal_code": "16424"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rina",
+      "gender": "Female",
+      "schedule": {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "info": "Tinggi: 139 cm",
+      "speciality": "Kulit",
+      "experience": 11,
+      "rating": 4.9,
+      "phone": "+62 812-9988-6655",
+      "email": "rina.ayu@healthcare.id",
+      "hospital": "RS Hermina Bogor",
+      "availability": [
+        "Monday",
+        "Thursday",
+        "Friday"
+      ],
+      "address": {
+        "street": "Jl. Pajajaran No. 25",
+        "city": "Bogor",
+        "province": "Jawa Barat",
+        "postal_code": "16153"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English",
+        "Chinese"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Farhan",
+      "gender": "Male",
+      "schedule": {
+        "start": "07:00",
+        "end": "10:00"
+      },
+      "info": "Tinggi: 170 cm",
+      "speciality": "Diabetes",
+      "experience": 15,
+      "rating": 4.8,
+      "phone": "+62 812-7000-2211",
+      "email": "farhan.salim@healthcare.id",
+      "hospital": "RS Pondok Indah",
+      "availability": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "address": {
+        "street": "Jl. Metro Duta No. 12",
+        "city": "Jakarta Selatan",
+        "province": "DKI Jakarta",
+        "postal_code": "12310"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Maria",
+      "gender": "Female",
+      "schedule": {
+        "start": "13:00",
+        "end": "16:00"
+      },
+      "info": "Tinggi: 160 cm",
+      "speciality": "Jantung",
+      "experience": 9,
+      "rating": 4.7,
+      "phone": "+62 822-4455-6677",
+      "email": "maria.tan@healthcare.id",
+      "hospital": "RS St. Carolus Jakarta",
+      "availability": [
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "address": {
+        "street": "Jl. Salemba No. 41",
+        "city": "Jakarta",
+        "province": "DKI Jakarta",
+        "postal_code": "10430"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Hendra",
+      "gender": "Male",
+      "schedule": {
+        "start": "10:00",
+        "end": "14:00"
+      },
+      "info": "Tinggi: 175 cm",
+      "speciality": "Paru-Paru",
+      "experience": 13,
+      "rating": 4.6,
+      "phone": "+62 821-8877-4455",
+      "email": "hendra.putra@healthcare.id",
+      "hospital": "RS Premier Bintaro",
+      "availability": [
+        "Monday",
+        "Thursday"
+      ],
+      "address": {
+        "street": "Jl. MH Thamrin No. 2",
+        "city": "Tangerang Selatan",
+        "province": "Banten",
+        "postal_code": "15224"
+      },
+      "languages": [
+        "Bahasa Indonesia"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Kartika",
+      "gender": "Female",
+      "schedule": {
+        "start": "15:00",
+        "end": "18:00"
+      },
+      "info": "Tinggi: 150 cm",
+      "speciality": "Ginjal",
+      "experience": 14,
+      "rating": 4.9,
+      "phone": "+62 812-3344-5566",
+      "email": "kartika.dewi@healthcare.id",
+      "hospital": "RS Bunda Jakarta",
+      "availability": [
+        "Wednesday",
+        "Friday"
+      ],
+      "address": {
+        "street": "Jl. Teuku Cik Ditiro No. 12",
+        "city": "Jakarta Pusat",
+        "province": "DKI Jakarta",
+        "postal_code": "10310"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Yusuf",
+      "gender": "Male",
+      "schedule": {
+        "start": "09:00",
+        "end": "13:00"
+      },
+      "info": "Tinggi: 168 cm",
+      "speciality": "Gigi",
+      "experience": 10,
+      "rating": 4.5,
+      "phone": "+62 813-7788-9900",
+      "email": "yusuf.ahmad@healthcare.id",
+      "hospital": "RS Mata Cicendo Bandung",
+      "availability": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "address": {
+        "street": "Jl. Cihampelas No. 10",
+        "city": "Bandung",
+        "province": "Jawa Barat",
+        "postal_code": "40131"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Melati",
+      "gender": "Female",
+      "schedule": {
+        "start": "08:30",
+        "end": "11:30"
+      },
+      "info": "Tinggi: 155 cm",
+      "speciality": "Kulit",
+      "experience": 8,
+      "rating": 4.8,
+      "phone": "+62 812-6677-8899",
+      "email": "melati.wijaya@healthcare.id",
+      "hospital": "RS Jiwa Dr. Soeharto Heerdjan",
+      "availability": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "address": {
+        "street": "Jl. Dr. Latumenten No. 1",
+        "city": "Jakarta Barat",
+        "province": "DKI Jakarta",
+        "postal_code": "11460"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Anton",
+      "gender": "Male",
+      "schedule": {
+        "start": "11:00",
+        "end": "14:00"
+      },
+      "info": "Tinggi: 172 cm",
+      "speciality": "Gigi",
+      "experience": 16,
+      "rating": 4.9,
+      "phone": "+62 821-5566-7788",
+      "email": "anton.halim@healthcare.id",
+      "hospital": "RSUD Dr. Moewardi Surakarta",
+      "availability": [
+        "Tuesday",
+        "Friday"
+      ],
+      "address": {
+        "street": "Jl. Kolonel Sutarto No. 132",
+        "city": "Surakarta",
+        "province": "Jawa Tengah",
+        "postal_code": "57126"
+      },
+      "languages": [
+        "Bahasa Indonesia"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Clara",
+      "gender": "Female",
+      "schedule": {
+        "start": "14:00",
+        "end": "17:00"
+      },
+      "info": "Tinggi: 158 cm",
+      "speciality": "Diabetes",
+      "experience": 6,
+      "rating": 4.4,
+      "phone": "+62 822-9900-2233",
+      "email": "clara.putri@healthcare.id",
+      "hospital": "RS Mitra Keluarga Bekasi",
+      "availability": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "address": {
+        "street": "Jl. Ahmad Yani No. 5",
+        "city": "Bekasi",
+        "province": "Jawa Barat",
+        "postal_code": "17144"
+      },
+      "languages": [
+        "Bahasa Indonesia",
+        "English"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Reza",
+      "gender": "Male",
+      "schedule": {
+        "start": "10:30",
+        "end": "13:30"
+      },
+      "info": "Tinggi: 169 cm",
+      "speciality": "Paru-Paru",
+      "experience": 9,
+      "rating": 4.7,
+      "phone": "+62 813-4455-6677",
+      "email": "reza.nugraha@healthcare.id",
+      "hospital": "RSUD Kota Bogor",
+      "availability": [
+        "Monday",
+        "Thursday",
+        "Saturday"
+      ],
+      "address": {
+        "street": "Jl. Semeru No. 15",
+        "city": "Bogor",
+        "province": "Jawa Barat",
+        "postal_code": "16111"
+      },
+      "languages": [
+        "Bahasa Indonesia"
+      ]
+    }
+  ]
+}
