@@ -1,4 +1,5 @@
 [
+  "produk":[
   {
     "id": 1,
     "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1742259058/attached_image/10-suplemen-vitamin-c-yang-ampuh-menjaga-daya-tahan-tubuh-1-alodokter.jpg",
@@ -63,4 +64,5 @@
     "description": "Meredakan gejala alergi pada tubuh.",
     "stock": 90
   }
+  ]
 ]
