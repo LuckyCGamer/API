@@ -1,0 +1,58 @@
+[
+  {
+    "img": "image/Vit.jpeg",
+    "name": "Vitamin C",
+    "price": 25000,
+    "description": "Meningkatkan daya tahan tubuh.",
+    "stock": 100
+  },
+  {
+    "img": "image/masker.jpeg",
+    "name": "Masker Medis",
+    "price": 5000,
+    "description": "Masker sekali pakai untuk perlindungan.",
+    "stock": 200
+  },
+  {
+    "img": "image/hands.jpeg",
+    "name": "Hand Sanitizer",
+    "price": 15000,
+    "description": "Membersihkan tangan tanpa air.",
+    "stock": 150
+  },
+  {
+    "img": "image/Flu.jpeg",
+    "name": "Obat Flu",
+    "price": 30000,
+    "description": "Meredakan gejala flu.",
+    "stock": 80
+  },
+  {
+    "img": "image/termo.jpeg",
+    "name": "Termometer Digital",
+    "price": 40000,
+    "description": "Mengukur suhu tubuh secara akurat.",
+    "stock": 50
+  },
+  {
+    "img": "image/batuk.jpeg",
+    "name": "Obat Batuk",
+    "price": 20000,
+    "description": "Meredakan batuk kering dan berdahak.",
+    "stock": 100
+  },
+  {
+    "img": "image/pusing.jpeg",
+    "name": "Obat Pusing",
+    "price": 18000,
+    "description": "Meredakan sakit kepala.",
+    "stock": 100
+  },
+  {
+    "img": "image/alergi.jpeg",
+    "name": "Obat Alergi",
+    "price": 22000,
+    "description": "Meredakan gejala alergi pada tubuh.",
+    "stock": 90
+  }
+]
