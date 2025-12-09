@@ -3,64 +3,64 @@
     {
       "id": 1,
       "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1742259058/attached_image/10-suplemen-vitamin-c-yang-ampuh-menjaga-daya-tahan-tubuh-1-alodokter.jpg",
-      "name": "vitamin_c_name",
-      "description": "vitamin_c_desc",
+      "name": "Vitamin C",
+      "description": "Membantu meningkatkan daya tahan tubuh.",
       "price": 25000,
       "stock": 100
     },
     {
       "id": 2,
       "img": "https://mmgnonwoven.com/wp-content/uploads/2023/02/masker-medis.jpg",
-      "name": "medical_mask_name",
-      "description": "medical_mask_desc",
+      "name": "Masker Medis",
+      "description": "Masker medis berkualitas tinggi untuk perlindungan.",
       "price": 5000,
       "stock": 200
     },
     {
       "id": 3,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxCJsRuotaB6x4VvraBKpKz9Hth2i0CPCDA&s",
-      "name": "hand_sanitizer_name",
-      "description": "hand_sanitizer_desc",
+      "name": "Hand Sanitizer",
+      "description": "Membunuh kuman dan menjaga kebersihan tangan.",
       "price": 15000,
       "stock": 150
     },
     {
       "id": 4,
       "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1754529784/attached_image/10-rekomendasi-obat-flu-yang-cepat-redakan-gejala-flu-6-alodokter.jpg",
-      "name": "flu_medicine_name",
-      "description": "flu_medicine_desc",
+      "name": "Obat Flu",
+      "description": "Meredakan gejala flu secara efektif.",
       "price": 30000,
       "stock": 80
     },
     {
       "id": 5,
       "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1728886285/attached_image/7-termometer-digital-yang-bagus-untuk-keluarga-di-rumah-1-alodokter.jpg",
-      "name": "digital_thermometer_name",
-      "description": "digital_thermometer_desc",
+      "name": "Termometer Digital",
+      "description": "Pengukuran suhu yang akurat dan cepat.",
       "price": 40000,
       "stock": 50
     },
     {
       "id": 6,
       "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1756352404/attached_image/pilihan-obat-batuk-berdahak-yang-ampuh-11-alodokter.jpg",
-      "name": "cough_medicine_name",
-      "description": "cough_medicine_desc",
+      "name": "Obat Batuk",
+      "description": "Membantu meredakan batuk dan iritasi tenggorokan.",
       "price": 20000,
       "stock": 100
     },
     {
       "id": 7,
       "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1746427182/attached_image/obat-pusing-dan-mual-yang-ampuh-di-apotek-6-alodokter.jpg",
-      "name": "headache_medicine_name",
-      "description": "headache_medicine_desc",
+      "name": "Obat Sakit Kepala",
+      "description": "Mengurangi sakit kepala dan mual.",
       "price": 18000,
       "stock": 100
     },
     {
       "id": 8,
       "img": "https://favo.id/cdn/shop/files/CRZALG4004_Cetirizine-10mg-Obat-Alergi---10-Tablet-HJ.jpg?v=1757320413",
-      "name": "allergy_medicine_name",
-      "description": "allergy_medicine_desc",
+      "name": "Obat Alergi",
+      "description": "Meredakan gejala alergi.",
       "price": 22000,
       "stock": 90
     }
